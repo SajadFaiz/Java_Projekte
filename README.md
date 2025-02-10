@@ -44,4 +44,10 @@ Die Ergebnisse werden in der Datei ergebnisliste.txt im selben Verzeichnis gespe
 
 # Ergebnis auf der Konsole
 
+![image](https://github.com/user-attachments/assets/d6485fa3-87c0-461d-84d3-482d78f486ff)
+
+
+![image](https://github.com/user-attachments/assets/4ef13390-0c84-4833-9575-352b0d254b06)
+
+
 ![image](https://github.com/user-attachments/assets/55d17701-7974-4a84-9550-c805e8e2832a)
