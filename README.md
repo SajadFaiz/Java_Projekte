@@ -1,4 +1,4 @@
-# ZiffernfolgeSpiel
+# P1_Ziffernfolge
 
 Dieses Java-Programm ist ein einfaches Konsolenspiel, bei dem die Spieler sich eine zufällig generierte Ziffernfolge merken und korrekt wiederholen müssen. Ziel des Spiels ist es, die längste mögliche Ziffernfolge fehlerfrei einzugeben. Das Programm speichert die besten Ergebnisse in einer Datei und zeigt eine Bestenliste an.
 
@@ -49,3 +49,19 @@ Die Ergebnisse werden in der Datei ergebnisliste.txt im selben Verzeichnis gespe
 ![image](https://github.com/user-attachments/assets/a0472768-fc39-4e17-a43e-dec03d9f408e)
 
 ![image](https://github.com/user-attachments/assets/55d17701-7974-4a84-9550-c805e8e2832a)
+
+# P2_ZiffernfolgeMitGUI
+
+Es ist eine Erweiterung von P1, hier wird GUI Benutzt.
+
+# Ergebnis auf der Konsole
+
+![image](https://github.com/user-attachments/assets/f7b89f12-0386-4710-9be8-9659958ad045)
+
+![image](https://github.com/user-attachments/assets/477ccc45-3836-4929-87f6-75e0fbf4776d)
+
+
+# Ergebnisse Sortiert
+
+![image](https://github.com/user-attachments/assets/247530c3-7ab5-46c3-9428-4acf86e115b2)
+
