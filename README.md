@@ -41,3 +41,7 @@ Dieses Java-Programm ist ein einfaches Konsolenspiel, bei dem die Spieler sich e
 # Dateispeicherung
 
 Die Ergebnisse werden in der Datei ergebnisliste.txt im selben Verzeichnis gespeichert. Die Datei wird bei jedem Beenden des Spiels automatisch aktualisiert.
+
+# Ergebnis auf der Konsole
+
+![image](https://github.com/user-attachments/assets/55d17701-7974-4a84-9550-c805e8e2832a)
