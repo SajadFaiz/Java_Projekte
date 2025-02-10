@@ -52,7 +52,26 @@ Die Ergebnisse werden in der Datei ergebnisliste.txt im selben Verzeichnis gespe
 
 # P2_ZiffernfolgeMitGUI
 
-Es ist eine Erweiterung von P1, hier wird GUI Benutzt.
+Es handelt sich wieder  um das Spiel Ziffernfolge mit 
+folgenden weiteren Elemente: 
+**(1)** Das Ergebnis eines Spieldurchgangs (Name des Spielers, Zeit, Länge 
+der Reihe) wird in einer Ergebnisliste auf der Festplatte gespeichert.  
+**(2)** Die Ergebnisliste wird am Ende eines jeden Spieldurchgangs vollständig 
+angezeigt (sortiert nach der Länge der Reihe, absteigend). 
+**(3)** Ein Spieler kann mehrere Spieldurchgänge hintereinander ohne 
+Programmneustart durchführen. 
+Im Vergleich zur P1 werden folgende Dinge zusätzlich 
+geübt: 
+**(1)** Graphische GUI. 
+**(2)** Implementierung eines vorgegebenen OO-Entwurfs (UML, 
+Klassendiagramm, Zustandsdiagramm). 
+**(3)** Dokumentation mit Javadoc. 
+**(4)** Testen der Klassen möglichst mit JUnit mindestens in C0-Qualität. 
+**(5)** Rollen (Planungs-, Code-, Qualitätsmanager). 
+**(6)** Programmieren von Zustandsautomaten (Zustand-Entwurfsmuster). 
+**(7)** Verwenden des Iterator-Entwurfsmusters. 
+**(8)** Implementieren von einigen Standard-Algorithmen (Sortierung, 
+Verschlüsselung, Zufallszahlen, Komprimierungen). 
 
 # Ergebnis auf der Konsole
 
